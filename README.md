@@ -3,7 +3,7 @@
 
 
 
-## Build
+## Build Android Apk
 
 构建安卓apk的话，记得配置好jdk和Android sdk，如果需要打包成il2cpp项目，还要配置ndk。然后在PlaySettings中配置好Package Name。之后Build就行了。
 
