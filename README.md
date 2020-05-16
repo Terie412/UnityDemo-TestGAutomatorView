@@ -1,4 +1,6 @@
 # UnityDemo-TestGAutomatorView
+![symbol](https://img.shields.io/badge/qintianchen-UnityDemo--TestGAutomatorView-orange)
+
 一个简易的Unity Demo，从Assets Store上下载了一个原始Demo，然后添加了场景跳转的功能。场景中有一些主要的UGUI控件，工程中已经嵌入了GAutomator的sdk，可以用来测试GAutomatorView工具。
 
 
